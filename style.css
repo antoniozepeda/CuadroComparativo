@@ -1,0 +1,12 @@
+.tabla-user {
+    margin-top: 50px;
+}
+
+.contenedor-admin {
+    margin-top: 250px;
+    border-style:solid;
+    border-color: black;
+    border-radius: 5px;
+    background-color:darkcyan;
+    height: 325px;
+}
